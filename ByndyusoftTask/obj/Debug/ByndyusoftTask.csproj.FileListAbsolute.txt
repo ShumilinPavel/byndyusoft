@@ -1,0 +1,7 @@
+D:\ByndyusoftTask\ByndyusoftTask\bin\Debug\ByndyusoftTask.exe.config
+D:\ByndyusoftTask\ByndyusoftTask\bin\Debug\ByndyusoftTask.exe
+D:\ByndyusoftTask\ByndyusoftTask\bin\Debug\ByndyusoftTask.pdb
+D:\ByndyusoftTask\ByndyusoftTask\obj\Debug\ByndyusoftTask.csprojAssemblyReference.cache
+D:\ByndyusoftTask\ByndyusoftTask\obj\Debug\ByndyusoftTask.csproj.CoreCompileInputs.cache
+D:\ByndyusoftTask\ByndyusoftTask\obj\Debug\ByndyusoftTask.exe
+D:\ByndyusoftTask\ByndyusoftTask\obj\Debug\ByndyusoftTask.pdb
